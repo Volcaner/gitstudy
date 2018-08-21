@@ -5,4 +5,4 @@ my second rewrite!
 my third rewrite!
 my fourth rewrite!
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
